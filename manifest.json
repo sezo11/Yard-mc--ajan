@@ -1,0 +1,17 @@
+{
+  "name": "Tamirci Ajan",
+  "short_name": "TamirciAjan",
+  "description": "Ağır iş makinesi arıza tespit sistemi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#182010",
+  "theme_color": "#182010",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
